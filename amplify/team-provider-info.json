@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bringledeploy-dev-90918-authRole",
+      "UnauthRoleArn": "arn:aws:iam::513409742618:role/amplify-bringledeploy-dev-90918-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::513409742618:role/amplify-bringledeploy-dev-90918-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-bringledeploy-dev-90918-deployment",
+      "UnauthRoleName": "amplify-bringledeploy-dev-90918-unauthRole",
+      "StackName": "amplify-bringledeploy-dev-90918",
+      "StackId": "arn:aws:cloudformation:eu-west-2:513409742618:stack/amplify-bringledeploy-dev-90918/527e3f30-2674-11ec-a97a-0ae0c7dc659c",
+      "AmplifyAppId": "d3vues8cq1iih6"
+    }
+  }
+}

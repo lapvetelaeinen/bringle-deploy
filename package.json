@@ -9,6 +9,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "aws-amplify": "^4.3.1",
+    "aws-amplify-vue": "^2.1.5",
     "core-js": "^3.15.1",
     "nuxt": "^2.15.7"
   },
